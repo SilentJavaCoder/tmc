@@ -40,4 +40,4 @@ patches:
   patch: |-
     - op: replace
       path: /spec/virtualhost/fqdn
-      value: wordpress.sgrhas.io
+      value: wordpress.chaoslab.systems
